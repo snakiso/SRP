@@ -14,6 +14,10 @@ body {
   color: white;
 }
 
+.loaded {
+  display: none;
+}
+
 main {
   position: relative;
 }
